@@ -6,7 +6,7 @@ GitHub repository for participants of the "CMake intro" training. For informatio
 
 1. [`CMake-introduction.pptx`](CMake-introduction.pptx) - slides from the course,
 
-1. [`cmake.tar.gz`](cmake.tar.gz) - set of files for hands-on sessions,
+1. [`CMake.tar.gz`](CMake.tar.gz) - set of files for hands-on sessions,
 
 1. README.md - info about content,
 
