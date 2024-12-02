@@ -16,7 +16,7 @@ This course will give an introduction to creating/modifying CMake files:
 This course is primarily targeted at current VSC-users
 
 ## Duration
-Total duration: 4 hours.
+Total duration: 3 hours.
 
 ## Price
 Free of charge
